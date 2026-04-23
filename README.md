@@ -26,22 +26,33 @@
 
 ## 🛠️ Tech Stack
 
-### 🔐 Security Tools
-![Microsoft Sentinel](https://img.shields.io/badge/-Microsoft%20Sentinel-blue?style=for-the-badge)
-![Defender](https://img.shields.io/badge/-Microsoft%20Defender-0078D4?style=for-the-badge)
-![Splunk](https://img.shields.io/badge/-Splunk-black?style=for-the-badge)
-![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?style=for-the-badge)
+### 🔐 Security & SIEM
+![Splunk](https://img.shields.io/badge/Splunk-black?style=for-the-badge)
+![Microsoft Sentinel](https://img.shields.io/badge/Microsoft%20Sentinel-0078D4?style=for-the-badge)
+![ELK](https://img.shields.io/badge/ELK%20Stack-yellow?style=for-the-badge)
+![QRadar](https://img.shields.io/badge/QRadar-blue?style=for-the-badge)
+
+### 🧠 Detection & Endpoint Security
+![CrowdStrike](https://img.shields.io/badge/CrowdStrike-red?style=for-the-badge)
+![SentinelOne](https://img.shields.io/badge/SentinelOne-purple?style=for-the-badge)
+![Defender](https://img.shields.io/badge/Microsoft%20Defender-0078D4?style=for-the-badge)
 
 ### 🌐 Networking
-![TCP/IP](https://img.shields.io/badge/-TCP%2FIP-grey?style=for-the-badge)
-![BGP](https://img.shields.io/badge/-BGP-orange?style=for-the-badge)
-![OSPF](https://img.shields.io/badge/-OSPF-yellow?style=for-the-badge)
+![TCP/IP](https://img.shields.io/badge/TCP%2FIP-grey?style=for-the-badge)
+![BGP](https://img.shields.io/badge/BGP-orange?style=for-the-badge)
+![OSPF](https://img.shields.io/badge/OSPF-yellow?style=for-the-badge)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge)
 
-### 💻 Systems & Tools
-![Linux](https://img.shields.io/badge/-Linux-black?style=for-the-badge)
-![KQL](https://img.shields.io/badge/-KQL-blueviolet?style=for-the-badge)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge)
+### ☁️ Cloud & DevSecOps
+![AWS](https://img.shields.io/badge/AWS-black?style=for-the-badge)
+![Azure](https://img.shields.io/badge/Azure-blue?style=for-the-badge)
+![Terraform](https://img.shields.io/badge/Terraform-purple?style=for-the-badge)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-black?style=for-the-badge)
 
+### 💻 Scripting & Automation
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge)
+![Bash](https://img.shields.io/badge/Bash-black?style=for-the-badge)
+![PowerShell](https://img.shields.io/badge/PowerShell-blue?style=for-the-badge)
 ---
 
 ## 📊 GitHub Stats
@@ -93,12 +104,6 @@
 - 💼 LinkedIn: linkedin.com/in/tanzimulalam
 - 📧 Email: fahim.communicate@gmail.com
 - 🌐 Portfolio: www.tanzimulalam.com
-
----
-
-## ⚡ Fun Fact
-
-> I don’t just detect threats — I think like them. 🧠💻
 
 ---
 
