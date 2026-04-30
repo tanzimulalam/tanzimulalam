@@ -1,112 +1,82 @@
-<h1 align="center">Hi 👋, I'm Tanzimul Alam Fahim</h1>
-<h3 align="center">Cybersecurity & Network Analyst | SOC Analyst | Security+ Certified</h3>
-
+<h1 align="center">Tanzimul Alam Fahim</h1>
 <p align="center">
-  <a href="https://github.com/tanzimulalam">
-    <img src="https://komarev.com/ghpvc/?username=tanzimulalam&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
-  </a>
+  SOC Analyst | Cybersecurity & Network Analyst | Security+ Certified
+</p>
+<p align="center">
+  Virginia, USA (Open to Relocation) · 
+  <a href="https://www.linkedin.com/in/tanzimulalam">LinkedIn</a> ·
+  <a href="https://www.tanzimulalam.com">Portfolio</a> ·
+  <a href="mailto:fahim.communicate@gmail.com">Email</a>
 </p>
 
 ---
 
-## 🚀 About Me
+## Professional Summary
 
-🔐 Cybersecurity & Network Analyst with **3+ years of experience**  
-🌐 Strong foundation in **Networking, SOC Operations & Threat Detection**  
-🧠 Passionate about **Threat Hunting, SIEM, and Incident Response**  
-📍 Based in Virginia | Open to Relocation  
-
-- 💻 Skilled in **Microsoft Sentinel, Defender, Splunk, Wireshark**
-- 🔍 Experienced in **KQL, Log Analysis, Threat Investigation**
-- ⚙️ Strong knowledge of **TCP/IP, BGP, OSPF, Linux**
-- 🧪 Currently working on **SOC automation & detection engineering**
-- 🎓 CompTIA Security+ Certified
+Cybersecurity and SOC Analyst with 3+ years of experience in threat detection, incident response, and SIEM operations.  
+Focused on building practical detection content, improving alert quality, and automating repetitive SOC workflows.  
+Interested in Detection Engineering, Threat Hunting, and Security Automation roles.
 
 ---
 
-## 🛠️ Tech Stack
+## Core Competencies
 
-### 🔐 Security & SIEM
-![Splunk](https://img.shields.io/badge/Splunk-black?style=for-the-badge)
-![Microsoft Sentinel](https://img.shields.io/badge/Microsoft%20Sentinel-0078D4?style=for-the-badge)
-![ELK](https://img.shields.io/badge/ELK%20Stack-yellow?style=for-the-badge)
-![QRadar](https://img.shields.io/badge/QRadar-blue?style=for-the-badge)
+- **SIEM & Detection Engineering:** Microsoft Sentinel, Splunk, ELK, QRadar, KQL
+- **Incident Response:** Alert triage, investigation, escalation, containment support
+- **Threat Hunting:** IOC-driven and behavior-based hunting, log correlation
+- **Endpoint & Security Tools:** Microsoft Defender, CrowdStrike, SentinelOne
+- **Networking & Analysis:** TCP/IP, BGP, OSPF, Wireshark, Linux fundamentals
+- **Automation & Scripting:** Python, Bash, PowerShell
 
-### 🧠 Detection & Endpoint Security
-![CrowdStrike](https://img.shields.io/badge/CrowdStrike-red?style=for-the-badge)
-![SentinelOne](https://img.shields.io/badge/SentinelOne-purple?style=for-the-badge)
-![Defender](https://img.shields.io/badge/Microsoft%20Defender-0078D4?style=for-the-badge)
-
-### 🌐 Networking
-![TCP/IP](https://img.shields.io/badge/TCP%2FIP-grey?style=for-the-badge)
-![BGP](https://img.shields.io/badge/BGP-orange?style=for-the-badge)
-![OSPF](https://img.shields.io/badge/OSPF-yellow?style=for-the-badge)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge)
-
-### ☁️ Cloud & DevSecOps
-![AWS](https://img.shields.io/badge/AWS-black?style=for-the-badge)
-![Azure](https://img.shields.io/badge/Azure-blue?style=for-the-badge)
-![Terraform](https://img.shields.io/badge/Terraform-purple?style=for-the-badge)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-black?style=for-the-badge)
-
-### 💻 Scripting & Automation
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge)
-![Bash](https://img.shields.io/badge/Bash-black?style=for-the-badge)
-![PowerShell](https://img.shields.io/badge/PowerShell-blue?style=for-the-badge)
 ---
 
-## 📊 GitHub Stats
+## Certifications
+
+- **CompTIA Security+**
+
+---
+
+## Featured Projects
+
+### SOC Detection Lab
+- Built and tuned detection rules in KQL for suspicious authentication and endpoint behaviors.
+- Simulated real-world attack scenarios to validate detection logic.
+- Integrated detections into SIEM workflows to improve analyst visibility and triage consistency.
+
+### Threat Hunting Playbooks
+- Developed repeatable investigation workflows for common SOC alert categories.
+- Standardized triage steps and evidence collection for faster case handling.
+- Improved consistency in threat analysis and escalation decisions.
+
+### Network Analysis Toolkit
+- Performed packet-level analysis using Wireshark to identify anomalies.
+- Investigated unusual traffic patterns and protocol misuse.
+- Documented findings and mapped observations to potential threat behaviors.
+
+> Tip: Replace each project with links to repos/write-ups when ready:
+> `[SOC Detection Lab](https://github.com/your-repo-link)`
+
+---
+
+## Tools & Technologies
+
+**Security / SIEM:** Microsoft Sentinel, Splunk, ELK, QRadar  
+**Endpoint Security:** Defender, CrowdStrike, SentinelOne  
+**Cloud / DevSecOps:** AWS, Azure, Terraform, GitHub Actions  
+**Scripting:** Python, Bash, PowerShell
+
+---
+
+## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tanzimulalam&show_icons=true&theme=tokyonight" alt="stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tanzimulalam&theme=tokyonight" alt="streak"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=tanzimulalam&show_icons=true&theme=tokyonight" alt="GitHub stats" />
 </p>
 
 ---
 
-## 🧠 What I Do
+## Contact
 
-✔️ Security Monitoring & Incident Response  
-✔️ Threat Hunting & Detection Engineering  
-✔️ SIEM Implementation & Optimization  
-✔️ Network Troubleshooting & Analysis  
-✔️ Security Automation (Playbooks, SOAR)  
-
----
-
-## 🔥 Featured Projects
-
-🚨 **SOC Detection Lab**  
-- Built detection rules using KQL  
-- Simulated real-world attack scenarios  
-- Integrated alerts into SIEM pipelines  
-
-🛡️ **Threat Hunting Playbooks**  
-- Automated investigation workflows  
-- Reduced response time significantly  
-
-🌐 **Network Analysis Toolkit**  
-- Packet analysis using Wireshark  
-- Identified anomalies and suspicious traffic  
-
----
-
-## 📈 Activity Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tanzimulalam&theme=tokyo-night"/>
-</p>
-
----
-
-## 📫 Connect With Me
-
-- 💼 LinkedIn: linkedin.com/in/tanzimulalam
-- 📧 Email: fahim.communicate@gmail.com
-- 🌐 Portfolio: www.tanzimulalam.com
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:000000&height=120&section=footer"/>
-</p>
+- LinkedIn: <a href="https://www.linkedin.com/in/tanzimulalam">linkedin.com/in/tanzimulalam</a>
+- Portfolio: <a href="https://www.tanzimulalam.com">www.tanzimulalam.com</a>
+- Email: <a href="mailto:fahim.communicate@gmail.com">fahim.communicate@gmail.com</a>
