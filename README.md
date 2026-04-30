@@ -90,22 +90,20 @@ Focused on threat hunting, detection engineering, and SOC automation.
 
 ## Hackathon & Devpost Projects
 
-### [SkeleVision](https://devpost.com/fahim5898)
+### [SkeleVision](https://devpost.com/software/skelevision)
 Turn your body into a live, interactive anatomy classroom.
 
-### [betterATS](https://devpost.com/fahim5898)
+### [betterATS](https://devpost.com/software/better-ats)
 AI-native ATS that ranks candidates by true fit and potential, not just keywords.
 
-### [Synthetica!](https://devpost.com/fahim5898)
+### [Synthetica!](https://devpost.com/software/synthetica)
 Synthetic Cyber Knowledge Graph Generator for analysts and cybersecurity professionals.
 
-### [Golapi-Care](https://devpost.com/fahim5898)
+### [Golapi-Care](https://devpost.com/software/golapi-care-abm57y)
 ML-based approach to identify Mild Cognitive Impairment using wearable device data.
 
-### [Heal Care](https://devpost.com/fahim5898)
+### [Heal Care](https://devpost.com/software/heal-care)
 AI healthcare companion focused on OTC medication guidance.
-
-> Full portfolio: **[devpost.com/fahim5898](https://devpost.com/fahim5898)**
 
 ---
 
