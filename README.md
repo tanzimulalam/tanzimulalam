@@ -8,7 +8,6 @@
 </p>
 
 <p align="center">
-  Virginia, USA (Open to Relocation) · 
   <a href="https://www.linkedin.com/in/tanzimulalam">LinkedIn</a> ·
   <a href="https://www.tanzimulalam.com">Portfolio</a> ·
   <a href="mailto:fahim.communicate@gmail.com">Email</a> ·
