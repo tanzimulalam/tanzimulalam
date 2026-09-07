@@ -50,13 +50,6 @@ An autonomous agent reads untrusted input from the world and then acts on it, wh
   </tr>
 </table>
 
-<p align="center">
-  <b>3+ yrs</b> security operations &amp; threat analysis &nbsp;·&nbsp;
-  <b>100K+</b> nodes in a synthetic CTI knowledge graph &nbsp;·&nbsp;
-  <b>CVE-2026-21631</b> Joomla Core disclosure, credited &nbsp;·&nbsp;
-  <b>IEEE CICN 2026</b> Technical Review Committee
-</p>
-
 ---
 
 ## 🔬 Research
