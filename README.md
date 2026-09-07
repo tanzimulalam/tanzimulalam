@@ -17,7 +17,7 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=tanzimulalam&label=Profile%20views&color=0e75b6&style=flat-square" alt="Profile views"/>
-  <img src="https://img.shields.io/badge/Based%20in-Murfreesboro%2C%20TN-0e75b6?style=flat-square" alt="Location"/>
+  <img src="https://img.shields.io/badge/Based%20in-Nashville%2C%20TN-0e75b6?style=flat-square" alt="Location"/>
   <img src="https://img.shields.io/badge/Open%20to-Collaborations%20%C2%B7%20Reviews%20%C2%B7%20Internships-22c55e?style=flat-square" alt="Open to"/>
 </p>
 
