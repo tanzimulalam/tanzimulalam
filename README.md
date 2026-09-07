@@ -25,9 +25,9 @@
 
 ## 👋 About me
 
-I build **agentic AI for autonomous unmanned aerial vehicles** in the [ASQI Lab](https://ma-hossain.github.io/) at [Middle Tennessee State University](https://www.mtsu.edu/), advised by Dr. Mohammad Arif Hossain. Drones that plan, adapt, and navigate on their own rather than following a fixed script.
+I build **agentic AI for autonomous unmanned aerial vehicles** in the [ASQI Lab](https://ma-hossain.github.io/) at [Middle Tennessee State University](https://www.mtsu.edu/). Drones that plan, adapt, and navigate on their own rather than following a fixed script.
 
-Before the Ph.D. I spent **three years in security operations and threat intelligence**, including research with the **Laboratory for Analytic Sciences and the NSA**. Both halves ask the same question: *how much can you let a system decide for itself?*
+Before the Ph.D. I spent **three years in security operations and threat intelligence**. Both halves ask the same question: *how much can you let a system decide for itself?*
 
 An autonomous agent reads untrusted input from the world and then acts on it, which is also a fair description of an attack surface. My research is about making agents **capable enough to be useful and verifiable enough to deploy**.
 
@@ -46,7 +46,7 @@ An autonomous agent reads untrusted input from the world and then acts on it, wh
   </tr>
   <tr>
     <td><b>📍 Based</b></td>
-    <td>Murfreesboro, Tennessee, USA</td>
+    <td>Nashville, Tennessee, USA</td>
   </tr>
 </table>
 
@@ -151,7 +151,7 @@ Four questions I'm working on. Autonomous flight on one side, security on the ot
 
 | Years | Degree | Institution |
 |:-----:|--------|-------------|
-| 2026 – present | **Ph.D., Computational & Data Science** | Middle Tennessee State University · ASQI Lab, advised by Dr. Mohammad Arif Hossain (Dept. of Engineering Technology) |
+| 2026 - present | **Ph.D., Computational & Data Science** | Middle Tennessee State University · ASQI Lab, Dept. of Engineering Technology |
 | 2025 | **B.S., Cybersecurity** · *Cum Laude* | University of North Carolina at Pembroke · Honors Scholar Fellowship · Chancellor's Honor List · Pembroke Scholar (2023, 2024, 2025) |
 
 ---
@@ -164,14 +164,14 @@ Four questions I'm working on. Autonomous flight on one side, security on the ot
 
 | When | Role | Where |
 |------|------|-------|
-| Aug 2026 – present | **Graduate Research Assistant, ASQI Lab** · agentic AI for autonomous UAVs | MTSU Mechatronics Engineering & Engineering Technology |
-| May – Jul 2026 | **Cyber Security Instructor** · bootcamp modules on vulnerability management, threat intelligence, risk assessment | Data Group USA |
-| Mar 2024 – Aug 2025 | **SOC Analyst** · Splunk, Defender, Cisco AMP/Umbrella, PhishER; Python + ML anomaly detection cut incident response time by 30% | UNCP Division of IT |
-| Aug 2024 – May 2025 | **Teaching Assistant** · Applied Cryptography & application security | UNCP Mathematics & Computer Science |
-| May 2024 – May 2025 | **Data Science Research Assistant** · Python pipelines over 100K+ PFAS well-water records; 60% less manual cleaning | UNCP Geology |
-| Jan 2024 – May 2025 | **Research Assistant** · Mobile Driver's License (mDL) architecture, secure identity & privacy | UNCP Cyber Defense Education Center |
-| Dec 2023 – Aug 2024 | **Research & ML Intern** · led a team of 5 building synthetic CTI (SAKURA); GANs in PyTorch, LangChain + GPT-4 generating STIX 2.1 at 90% validity | Laboratory for Analytic Sciences & NSA |
-| Feb 2021 – Jul 2022 | **Research Intern** · Team Lead of Operations, BRACU Dichari; Mechanical Team, BRACU Mongol Tori 6.0 | Laboratory for Space Systems Engineering & Technology, Dhaka |
+| Aug 2026 - present | **Graduate Research Assistant, ASQI Lab** · agentic AI for autonomous UAVs | MTSU Mechatronics Engineering & Engineering Technology |
+| May - Jul 2026 | **Cyber Security Instructor** · bootcamp modules on vulnerability management, threat intelligence, risk assessment | Data Group USA |
+| Mar 2024 - Aug 2025 | **SOC Analyst** · Splunk, Defender, Cisco AMP/Umbrella, PhishER; Python + ML anomaly detection cut incident response time by 30% | UNCP Division of IT |
+| Aug 2024 - May 2025 | **Teaching Assistant** · Applied Cryptography & application security | UNCP Mathematics & Computer Science |
+| May 2024 - May 2025 | **Data Science Research Assistant** · Python pipelines over 100K+ PFAS well-water records; 60% less manual cleaning | UNCP Geology |
+| Jan 2024 - May 2025 | **Research Assistant** · Mobile Driver's License (mDL) architecture, secure identity & privacy | UNCP Cyber Defense Education Center |
+| Dec 2023 - Aug 2024 | **Research & ML Intern** · led a team of 5 building synthetic CTI (SAKURA); GANs in PyTorch, LangChain + GPT-4 generating STIX 2.1 at 90% validity | Laboratory for Analytic Sciences & NSA |
+| Feb 2021 - Jul 2022 | **Research Intern** · Team Lead of Operations, BRACU Dichari; Mechanical Team, BRACU Mongol Tori 6.0 | Laboratory for Space Systems Engineering & Technology, Dhaka |
 
 </details>
 
@@ -179,12 +179,12 @@ Four questions I'm working on. Autonomous flight on one side, security on the ot
 <summary><b>Leadership</b></summary>
 <br/>
 
-- **Vice President**, Artificial Intelligence @ UNCP Club (2023 – 2025)
-- **Organizer**, HackUNCP Hackathon (2024 – 2025)
-- **Committee Chairman**, Cyber Defense Club, UNCP (2024 – 2025)
+- **Vice President**, Artificial Intelligence @ UNCP Club (2023 - 2025)
+- **Organizer**, HackUNCP Hackathon (2024 - 2025)
+- **Committee Chairman**, Cyber Defense Club, UNCP (2024 - 2025)
 - **Global Affairs Deputy Head**, English Olympiad Global
 - **National Event Coordinator**, Coding Olympiad Global, Bangladesh (2021)
-- **Convenor & Country Ambassador (Bangladesh)**, Worldwide Organization for Charity (2021 – 2023)
+- **Convenor & Country Ambassador (Bangladesh)**, Worldwide Organization for Charity (2021 - 2023)
 
 </details>
 
